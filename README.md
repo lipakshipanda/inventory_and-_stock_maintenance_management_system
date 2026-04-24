@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-ISC-blue?style=flat)
 
 A full-stack inventory and stock management system built with **Node.js**, **Express**, and **MongoDB**. Designed to automate inventory tracking, reduce manual errors, manage multi-role users, and provide real-time analytics — all through a modern, responsive web interface.
-
+![ ismms](front.png)
 ---
 
 ## 📋 Table of Contents
